@@ -79,10 +79,7 @@ Arduino-based automatic watering system with soil moisture monitoring, water-lev
 
 - Linux
 - Android
-- Networking
-- Embedded systems
 - Automation
-- Minecraft tooling
 - Product and UI development
 
 ---
@@ -154,10 +151,7 @@ Android VPN-клиент на базе **sing-box** для сервиса PXLNET
 
 - Linux
 - Android
-- Сети
-- Embedded
 - Автоматизация
-- Minecraft-инструменты
 - Разработка продуктов и интерфейсов
 
 ---
