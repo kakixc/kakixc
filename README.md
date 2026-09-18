@@ -2,31 +2,18 @@
 
 # kakixc
 
-**Building PXL projects.**
+Building things under **PXL**.
 
-Native apps · Android · Linux · Minecraft tooling
+`C++` · `Qt` · `Kotlin` · `Android` · `Python` · `Linux`
 
 </div>
 
----
+### Projects
 
-### Currently building
+- **[PXL Cone Launcher](https://github.com/kakixc/PXL-Cone-Launcher)** — Minecraft workspace and launcher based on PineconeMC / Prism
+- **PXLNET Connect** — cross-platform connectivity tools
+- **PXL City** — currently in development
 
-**PXL Cone Launcher**  
-A modern Minecraft workspace and launcher based on PineconeMC / Prism Launcher.
-
-**PXLNET Connect**  
-Cross-platform connectivity tools for the PXL ecosystem.
-
-**PXL City**  
-A location-based project currently in development.
-
----
-
-### Working with
-
-`C++` · `Qt` · `Kotlin` · `Android` · `Python` · `Git` · `Linux`
-
----
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" width="520" alt="GitHub Metrics">
+</p>
