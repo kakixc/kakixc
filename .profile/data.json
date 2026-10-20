@@ -1,0 +1,312 @@
+{
+ "key": "a8e91457",
+ "stars": 5,
+ "contributions": 62,
+ "repos": 10,
+ "followers": 1,
+ "languages": [
+  [
+   "Kotlin",
+   2308887
+  ],
+  [
+   "Python",
+   69027
+  ],
+  [
+   "Java",
+   41790
+  ],
+  [
+   "HTML",
+   20712
+  ],
+  [
+   "CSS",
+   8578
+  ],
+  [
+   "C++",
+   5553
+  ],
+  [
+   "AIDL",
+   4363
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 2
+ },
+ "pins": [
+  {
+   "name": "PXLNET-Connect",
+   "url": "https://github.com/kakixc/PXLNET-Connect",
+   "text": "PXLNet Connect —Оффициальный Android VPN-клиент на базе sing-box с VLESS, Hysteria2 и Smart Routing сервиса PXLNET",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-vpn",
+    "hysteria2",
+    "kotlin",
+    "sing-box",
+    "smart-routing",
+    "vless",
+    "vpn",
+    "pxlnet",
+    "pxlnet-connect"
+   ]
+  },
+  {
+   "name": "PXL-Cone-Launcher",
+   "url": "https://github.com/kakixc/PXL-Cone-Launcher",
+   "text": "A modern Minecraft workspace and launcher based on PineconeMC.",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "linux",
+    "minecraft",
+    "minecraft-launcher",
+    "modpack",
+    "pineconemc",
+    "prismlauncher",
+    "prismlauncher-fork",
+    "windows",
+    "pxlcone"
+   ]
+  },
+  {
+   "name": "pxl-meshtastic-firmware",
+   "url": "https://github.com/kakixc/pxl-meshtastic-firmware",
+   "text": "Unofficial Meshtastic firmware builds with a small set of PXL UI improvements.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "autopolivalka",
+   "url": "https://github.com/kakixc/autopolivalka",
+   "text": "Автоматическая система полива растений на Arduino с LCD-дисплеем, датчиками влажности почвы, уровня воды, температуры и воздуха.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "PXLNET-Connect",
+   "url": "https://github.com/kakixc/PXLNET-Connect",
+   "text": "PXLNet Connect —Оффициальный Android VPN-клиент на базе sing-box с VLESS, Hysteria2 и Smart Routing сервиса PXLNET",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "android-vpn",
+    "hysteria2",
+    "kotlin",
+    "sing-box",
+    "smart-routing",
+    "vless",
+    "vpn",
+    "pxlnet",
+    "pxlnet-connect"
+   ]
+  },
+  {
+   "name": "PXL-Cone-Launcher",
+   "url": "https://github.com/kakixc/PXL-Cone-Launcher",
+   "text": "A modern Minecraft workspace and launcher based on PineconeMC.",
+   "fork": true,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "linux",
+    "minecraft",
+    "minecraft-launcher",
+    "modpack",
+    "pineconemc",
+    "prismlauncher",
+    "prismlauncher-fork",
+    "windows",
+    "pxlcone"
+   ]
+  },
+  {
+   "name": "pxl-meshtastic-firmware",
+   "url": "https://github.com/kakixc/pxl-meshtastic-firmware",
+   "text": "Unofficial Meshtastic firmware builds with a small set of PXL UI improvements.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "autopolivalka",
+   "url": "https://github.com/kakixc/autopolivalka",
+   "text": "Автоматическая система полива растений на Arduino с LCD-дисплеем, датчиками влажности почвы, уровня воды, температуры и воздуха.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "Norma0",
+   "url": "https://github.com/kakixc/Norma0",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "kakixc",
+   "url": "https://github.com/kakixc/kakixc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "sc",
+   "url": "https://github.com/kakixc/sc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "dots",
+   "url": "https://github.com/kakixc/dots",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "mewkalka",
+   "url": "https://github.com/kakixc/mewkalka",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "kakix",
+   "url": "https://github.com/kakixc/kakix",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
