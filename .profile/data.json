@@ -1,5 +1,5 @@
 {
- "key": "9fdd16f5",
+ "key": "49fe4f9f",
  "stars": 5,
  "contributions": 63,
  "repos": 10,
@@ -173,7 +173,7 @@
    "url": "https://github.com/kakixc/PXL-Cone-Launcher",
    "text": "A modern Minecraft workspace and launcher based on PineconeMC.",
    "fork": true,
-   "stars": 1,
+   "stars": 2,
    "language": "C++",
    "topics": [
     "cpp",
@@ -209,6 +209,26 @@
  ],
  "all": [
   {
+   "name": "PXL-Cone-Launcher",
+   "url": "https://github.com/kakixc/PXL-Cone-Launcher",
+   "text": "A modern Minecraft workspace and launcher based on PineconeMC.",
+   "fork": true,
+   "stars": 2,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "linux",
+    "minecraft",
+    "minecraft-launcher",
+    "modpack",
+    "pineconemc",
+    "prismlauncher",
+    "prismlauncher-fork",
+    "windows",
+    "pxlcone"
+   ]
+  },
+  {
    "name": "PXLNET-Connect",
    "url": "https://github.com/kakixc/PXLNET-Connect",
    "text": "PXLNet Connect —Оффициальный Android VPN-клиент на базе sing-box с VLESS, Hysteria2 и Smart Routing сервиса PXLNET",
@@ -226,26 +246,6 @@
     "vpn",
     "pxlnet",
     "pxlnet-connect"
-   ]
-  },
-  {
-   "name": "PXL-Cone-Launcher",
-   "url": "https://github.com/kakixc/PXL-Cone-Launcher",
-   "text": "A modern Minecraft workspace and launcher based on PineconeMC.",
-   "fork": true,
-   "stars": 1,
-   "language": "C++",
-   "topics": [
-    "cpp",
-    "linux",
-    "minecraft",
-    "minecraft-launcher",
-    "modpack",
-    "pineconemc",
-    "prismlauncher",
-    "prismlauncher-fork",
-    "windows",
-    "pxlcone"
    ]
   },
   {
